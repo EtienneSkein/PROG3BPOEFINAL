@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunicipalServiceApp", "MunicipalServiceApp\MunicipalServiceApp.csproj", "{5F992CA5-690D-472F-8116-46C93BA46C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F992CA5-690D-472F-8116-46C93BA46C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F992CA5-690D-472F-8116-46C93BA46C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F992CA5-690D-472F-8116-46C93BA46C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F992CA5-690D-472F-8116-46C93BA46C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9892BD23-8AB8-4310-9B63-89479ABC9828}
+	EndGlobalSection
+EndGlobal

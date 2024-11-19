@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Etienne\\Old\\MunicipalServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\reportissueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\reportissueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\avltreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\avltreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\events.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\events.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\servicerequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\servicerequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\servicerequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\servicerequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\servicerequeststatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\servicerequeststatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\etienne\\old\\municipalserviceapp\\municipalserviceapp\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F992CA5-690D-472F-8116-46C93BA46C70}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Event.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Event.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Event.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Event.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:11:16.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Events.cs [Design]",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Events.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Events.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Events.cs [Design]",
+              "RelativeToolTip": "MunicipalServiceApp\\Events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:39:23.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportIssueForm.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\ReportIssueForm.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\ReportIssueForm.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\ReportIssueForm.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\ReportIssueForm.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAwJAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:32:00.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Events.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Events.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Events.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Events.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAqwNsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:44:22.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Issue.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Issue.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Issue.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Issue.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:14:13.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AVLTreeNode.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\AVLTreeNode.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\AVLTreeNode.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\AVLTreeNode.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\AVLTreeNode.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:26:42.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\DataStore.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\DataStore.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\DataStore.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\DataStore.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAIwPYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:42:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRequestStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\ServiceRequestStatus.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\ServiceRequestStatus.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\ServiceRequestStatus.cs [Design]",
+              "RelativeToolTip": "MunicipalServiceApp\\ServiceRequestStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:09:47.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Events.Designer.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Events.Designer.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Events.Designer.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Events.Designer.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Events.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAD4v7cAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:34:44.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRequestStatus.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\ServiceRequestStatus.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\ServiceRequestStatus.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\ServiceRequestStatus.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\ServiceRequestStatus.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwD4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:24:01.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceRequestStatus.Designer.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\ServiceRequestStatus.Designer.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\ServiceRequestStatus.Designer.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\ServiceRequestStatus.Designer.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\ServiceRequestStatus.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAIwLUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:12:09.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Home.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Home.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Home.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Home.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:43:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Home.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Home.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Home.cs [Design]",
+              "RelativeToolTip": "MunicipalServiceApp\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:43:53.084Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Home.Designer.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Home.Designer.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Home.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAQwIEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:44:05.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MinHeap.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\MinHeap.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\MinHeap.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\MinHeap.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\MinHeap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:32:43.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Graph.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Graph.cs",
+              "ToolTip": "C:\\Etienne\\Old\\MunicipalServiceApp\\MunicipalServiceApp\\Graph.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Graph.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:38:34.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
